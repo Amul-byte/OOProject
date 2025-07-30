@@ -10,3 +10,7 @@ wheels/
 .venv
 .env
 .vscode
+favicon.zip/
+images/
+favicon**
+temp/
